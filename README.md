@@ -1,4 +1,4 @@
-# test_connect_api_app
+# Bundit Store
 
 A new Flutter project.
 
