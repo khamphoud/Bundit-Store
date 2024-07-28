@@ -76,11 +76,11 @@ class AddProductPageStale extends State<AddProductPage> {
           color: const Color.fromARGB(255, 187, 187, 187), width: 8.0),
       borderRadius: BorderRadius.circular(20.0));
   final prodType = [
-    'ໂທລະສັບ',
-    'ໂນດບຸກ',
-    'ຄອມພິວເຕີຕັ້ງໂຕະ',
-    'ແທັບເລັດ',
-    'ໂມງສະມາດວອດ'
+    'Smart Phone',
+    'Desktop',
+    'PC PART',
+    'Tablet',
+    'Smart Watch'
   ];
   String? selectedType;
   String? dialogMessage;
